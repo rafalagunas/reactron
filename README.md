@@ -20,11 +20,11 @@ By default, this boilerplate runs in dev mode the react.js app inside electron.j
 
 In one terminal tab/window
 
-    npm start
+    npm run react
 
 In other terminal tab/window
 
-    npm run start-electron
+    npm run electron
 
 ## Build steps
 
